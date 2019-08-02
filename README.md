@@ -8,6 +8,9 @@ A repository based on my 3D models made in Sketchup including short Ruby scripts
 
 **Sarajevo Tower** */models/sarajevotower/version/sarajevotower.rb*
 
+<img src="https://i.imgur.com/3e1E5Vm.jpg">
+<img src="https://i.imgur.com/TGTU5Od.png">
+
 
 ### usage ###
 
