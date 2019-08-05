@@ -15,6 +15,10 @@ A repository based on my 3D models made in Sketchup including short Ruby scripts
 
 <img src="https://i.imgur.com/X33Qffv.png">
 
+**Osiristower** */models/osiris/osiris.rb*
+
+<img src="https://i.imgur.com/oIsiMW0.png">
+
 
 ### usage ###
 
